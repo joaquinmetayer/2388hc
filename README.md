@@ -2,7 +2,7 @@
 
 Web for my past personal project named 2388HC.
 
-Live view on www.joaquinmetayer.github.io/2388hc
+Live view on https://joaquinmetayer.github.io/2388hc/
 
 www.instagram.com/2388hc
 
