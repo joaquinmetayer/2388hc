@@ -10,16 +10,16 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Roboto", serif;
-  color: #444;
+  color: #fff;
 }
 
 a {
   text-decoration: none;
-  color: #4f92af;
+  color: #fff;
 }
 
 a:hover {
-  color: #5eb8df;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -184,9 +184,9 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   border-radius: 3px;
   transition: 0.5s;
   margin: 10px;
-  border: 2px solid #4f92af;
+  border: 2px solid #fff;
   color: #fff;
-  background: #4f92af;
+  background: #fff;
 }
 #hero .php-email-form button[type=submit]:hover {
   background: transparent;
