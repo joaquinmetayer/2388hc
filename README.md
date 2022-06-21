@@ -1,6 +1,6 @@
 # 2388HC
 
-Web for my past personal project named 2388HC.
+Web for my personal project named 2388HC.
 
 Live view on https://joaquinmetayer.github.io/2388hc/
 
