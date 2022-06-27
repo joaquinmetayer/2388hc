@@ -8,4 +8,5 @@ www.instagram.com/2388hc
 
 Based on https://bootstrapmade.com/demo/WeBuild/
 
-<img width="800" alt="Screen Shot 2022-06-10 at 12 57 43" src="https://user-images.githubusercontent.com/83543601/173105736-1413962c-4daa-4a7d-a532-c3874a9589c0.png">
+<img width="1064" alt="Screen Shot 2022-06-27 at 10 23 28" src="https://user-images.githubusercontent.com/83543601/175952295-8f2eb913-b753-4ea4-8bb8-66b1cbaf5278.png">
+
